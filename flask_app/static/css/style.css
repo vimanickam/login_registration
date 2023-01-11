@@ -1,0 +1,27 @@
+/* User Registration Portal */
+
+/* List style */
+ul,li {
+    list-style: none;
+}
+
+.bg-navbar {
+    background-color: rgb(114,109,168);
+}
+.col-container {
+    /*background-color: rgb(94, 116, 127);*/
+    background-color: rgb(125,140,196);
+    color:white;
+    border: 2px solid rgb(125,140,196);
+    border-radius: 5%;
+    width: 30rem;
+}
+
+.col2-container{
+    background-color: rgb(125,140,196);
+    color:white;
+    border: 2px solid rgb(125,140,196);
+    width: 20rem;
+    height: 25rem;
+    border-radius: 5%;
+}
